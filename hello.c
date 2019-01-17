@@ -8,6 +8,8 @@
 #include<stdlib.h>
 #include<stdio.h>
 
+int main(int argc, char **argv) {
+
   printf("Said Al-Qassabi - Software Engineering\n");
 
   return 0;
